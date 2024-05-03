@@ -25,6 +25,11 @@ export default function Home() {
               <Link href="/compound-interest">Compound Interest</Link>
             </p>
           </div>
+          <div className="bg-slate-200 rounded-md">
+            <p className="text-center py-4">
+              <Link href="/emi">EMI Calculator</Link>
+            </p>
+          </div>
         </div>
       </div>
     </>
